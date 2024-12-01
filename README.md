@@ -1,6 +1,3 @@
-Here’s a simple `README.md` for the GitHub repository:
-
-```markdown
 # Custom Programming Language - Tokenizer
 
 This project is the foundation for a simple programming language. It currently includes a **tokenizer**, which breaks down the source code into meaningful tokens.
